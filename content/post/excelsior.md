@@ -1,9 +1,10 @@
 +++
-tags = []
+tags = ["poetry"]
 highlight = true
 math = false
 date = "2017-07-10T09:48:29-04:00"
 title = "Excelsior"
+draft = false
 
 [header]
   caption = ""
