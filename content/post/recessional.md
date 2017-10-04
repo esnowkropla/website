@@ -46,5 +46,7 @@ In reeking tube and iron shard,
 All valiant dust that builds on dust,
 And guarding calls not Thee to guard,
 For frantic boast and foolish word-
-Thy Mercy on Thy People, Load!
+Thy Mercy on Thy People, Lord!
+
+-Rudyard Kipling
 ```
