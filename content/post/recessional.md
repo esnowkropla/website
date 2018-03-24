@@ -4,7 +4,7 @@ highlight = true
 math = false
 date = "2017-07-10T10:08:05-04:00"
 title = "Recessional"
-draft = true
+draft = false
 
 [header]
   caption = ""
