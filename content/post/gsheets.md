@@ -4,7 +4,7 @@ title = "Working with the Google Sheets API"
 tags = ["python", "webdev", "programming"]
 highlight = true
 math = true
-draft = false
+draft = true
 
 [header]
   caption = ""
