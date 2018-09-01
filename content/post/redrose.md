@@ -4,6 +4,7 @@ title = "A Red, Red Rose"
 tags = ["poetry", "burns"]
 highlight = true
 math = false
+draft = false
 
 [header]
   caption = ""
