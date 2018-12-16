@@ -12,10 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+	"Internet Infrastructure",
 	"Machine Learning",
     "Unusual Formulations of Classical Mechanics",
     "Quantum Physics",
-    "Internet Plumbing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -39,4 +39,4 @@ weight = 1
 # Biography
 I grew up in Halifax Nova Scotia, and attended Dalhouse University.  For my undergraduate research I worked in the [Aerosol and Cloud Group](http://pierce.atmos.colostate.edu/) on the link between cosmic ray flux and cloud formation, and improving modelling of sea-salt aerosol production.  After completing my BSc I moved into the [Quantum Theory Group](http://quantum.phys.dal.ca/index.html) and worked on translating classical problems of interest (mostly [3-SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#3-satisfiability)) onto Quantum computers, culminating in my thesis [Compiling Programs for an Adiabatic Quantum Computer](https://github.com/esnowkropla/eskthesis).
 
-From 2015-2017 I was the co-founder and lead programmer at [Two and Thirty Software](http://twoandthirtysoftware.com) working on [Hairy Little Buggers](http://hairylittlebuggers.com).  Currently I work as a Media Data Scientist at [Klick Health](http://klick.com), where I work on the data pipeline from ingestion (through external APIs, SFTP collection and measurements), processing (ingestion, normalization) and storing (POSTGRES and SQLAlchemy).  I also maintain the API access to our data, build dashboards and monitoring, and build models trained on the data.
+From 2015-2017 I was the co-founder and lead programmer at [Two and Thirty Software](http://twoandthirtysoftware.com) working on [Hairy Little Buggers](http://hairylittlebuggers.com). Currently, I work as a backend software developer at [Platterz](http://www.platterz.ca).

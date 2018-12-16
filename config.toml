@@ -1,6 +1,6 @@
 baseurl = "http://ejsk.ca/"  # End your URL with a `/` trailing slash.
 title = "Elliot Snow-Kropla"
-copyright = "&copy; 2017 Elliot Snow-Kropla"
+copyright = "&copy; 2018 Elliot Snow-Kropla"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "esnowkropla@gmail.com"
+  email = "elliot@ejsk.ca"
   address = "3-524 Runnymede Road, Toronto ON M6S2Z7"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "902 981 53 82"
