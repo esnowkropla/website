@@ -1,6 +1,6 @@
 baseurl = "http://ejsk.ca/"  # End your URL with a `/` trailing slash.
 title = "Elliot Snow-Kropla"
-copyright = "&copy; 2018 Elliot Snow-Kropla"
+copyright = "&copy; 2020 Elliot Snow-Kropla"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
