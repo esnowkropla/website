@@ -16,7 +16,7 @@ image_preview = "hlb.jpg"
 tags = ["games"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://hairylittlebuggers.com"
+external_link = "https://store.steampowered.com/app/405240/Hairy_Little_Buggers/"
 
 # Does the project detail page use math formatting?
 math = false
