@@ -1,0 +1,20 @@
+baseURL = "https://ejsk.ca"
+
+theme = 'hugo-bearblog'
+
+title = "Elliot Snow-Kropla"
+author = "Elliot Snow-Kropla"
+copyright = "&copy; 2022 Elliot Snow-Kropla"
+
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = "Elliot Snow-Kropla's personal site"
+  title = "Elliot Snow-Kropla"
